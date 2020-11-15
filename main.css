@@ -1,0 +1,20 @@
+body{
+  color: white;
+  background-color: black;
+  font-family: Georgia;
+}
+
+h1{
+  text-align: center;
+  outline-style: solid;
+  outline-color: red;
+}
+
+h2{
+  font-size: 140%;
+  text-align: center;
+}
+
+h3{
+  font-size: 125%;
+}

@@ -1,0 +1,18 @@
+body{
+  color: DarkSlateGrey;
+  background-color: LightGreen;
+  font-family: Times;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  font-size: 140%;
+  text-align: center;
+}
+
+p{
+  font-family: "Comic Sans MS";
+}
