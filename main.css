@@ -18,3 +18,8 @@ h2{
 h3{
   font-size: 125%;
 }
+#play_music{
+  position:absolute;
+  right:0;
+  bottom:0;
+}
